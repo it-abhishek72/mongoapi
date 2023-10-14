@@ -59,6 +59,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use it f
 
 Happy coding!
 ```
-
-Remember to replace `"your-username"` and `"your-repo"` with your actual GitHub username and repository name. Also, make sure to create a LICENSE file with the appropriate license text and adjust any other details specific to your project.
-
